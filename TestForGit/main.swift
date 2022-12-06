@@ -10,3 +10,4 @@ import Foundation
 print("Hello, World!")
 print("Hello, Git!")
 print("Hello, Commit!")
+print(1)
